@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Frail",
+  "base_artist": "アイナ・ジ・エンド",
+  "createdAt": "2025-12-05T17:52:51.947512Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Frail",
+      "artist": "Crystal Castles",
+      "has_synced": true,
+      "path": "select/01_Frail_Crystal_Castles.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Frail",
+      "artist": "The Gathering",
+      "has_synced": false,
+      "path": "select/02_Frail_The_Gathering.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Frail Expectations",
+      "artist": "Trail Of Tears",
+      "has_synced": false,
+      "path": "select/03_Frail_Expectations_Trail_Of_Tears.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Far Too Frail",
+      "artist": "Skinny Puppy",
+      "has_synced": true,
+      "path": "select/04_Far_Too_Frail_Skinny_Puppy.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Frail and Bedazzled",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/05_Frail_and_Bedazzled_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Frail and Bedazzled - Soundworks Demo",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/06_Frail_and_Bedazzled_-_Soundworks_Demo_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Frail and Bedazzled (Soundworks Demo)",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/07_Frail_and_Bedazzled_(Soundworks_Demo)_The_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Frail Grasp On The Big Picture",
+      "artist": "Eagles",
+      "has_synced": true,
+      "path": "select/08_Frail_Grasp_On_The_Big_Picture_Eagles.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Frail",
+      "artist": "Glenn Hughes",
+      "has_synced": true,
+      "path": "select/09_Frail_Glenn_Hughes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Frail Love",
+      "artist": "CLOVES",
+      "has_synced": true,
+      "path": "select/10_Frail_Love_CLOVES.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Ignite Your Frail Mind",
+      "artist": "Fear, and Loathing in Las Vegas",
+      "has_synced": true,
+      "path": "select/11_Ignite_Your_Frail_Mind_Fear,_and_Loathing_in_Las_Vegas.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Free The Frail",
+      "artist": "JPEGMAFIA feat. Helena Deland",
+      "has_synced": true,
+      "path": "select/12_Free_The_Frail_JPEGMAFIA_feat._Helena_Deland.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Frail and Bedazzled (Soundworks Demo)",
+      "artist": "Smashing Pumpkins",
+      "has_synced": false,
+      "path": "select/13_Frail_and_Bedazzled_(Soundworks_Demo)_Smashing_Pumpkins.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Frail Without You",
+      "artist": "To/Die/For",
+      "has_synced": true,
+      "path": "select/14_Frail_Without_You_To_Die_For.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Free the Frail (feat. Helena Deland)",
+      "artist": "JPEGMAFIA",
+      "has_synced": true,
+      "path": "select/15_Free_the_Frail_(feat._Helena_Deland)_JPEGMAFIA.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Frail State of Mind",
+      "artist": "The 1975",
+      "has_synced": true,
+      "path": "select/16_Frail_State_of_Mind_The_1975.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Frail",
+      "artist": "アイナ・ジ・エンド",
+      "has_synced": false,
+      "path": "select/pl_01_Frail_アイナ・ジ・エンド.txt"
+    }
+  ]
+}
